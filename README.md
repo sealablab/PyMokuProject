@@ -8,4 +8,3 @@ pwd /Users/johnycsh/RepositoryDir/PyMokuProject
 ## Scripts
 
 Lets see some basic examples!
-
